@@ -22,7 +22,7 @@ android {
     compileSdkVersion 26
 
     defaultConfig {
-        applicationId "com.fiendfyre.AdHell133722"
+        applicationId "pl.shorti1996.testest"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 2
